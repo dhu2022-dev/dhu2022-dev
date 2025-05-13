@@ -52,73 +52,107 @@ Bite-sized projects designed by JPMC SWEs w/ Forage to simulate job tasks as a J
 
 --- -->
 
-## 💭 Outside of work
+## 💭 Outside of Work
 
-- I LOVE Hackathons! Me and (sometimes the bois) chugging redbull to pump out a hopelessly unrealistic idea in less than 48 hours:
+### 🧑‍💻 Hackathons & Friends
+I LOVE Hackathons! Me and (sometimes the bois) chugging redbull to pump out a hopelessly unrealistic idea in less than 48 hours:
 
-<p align="center">
+<div align="center">
   <img src="readme_images/monkey_computer.gif" alt="funny gif" width="400"/>
-</p>
+</div>
 
-- Let's connect! I enjoy meeting new people. I'm in a social fraternity while at college (proud [PSK](https://phisigmakappa.org/about/) Brother) and made some of my best friends by taking a risk. Some of my best projects were at other schools done w/ people I hadn't met before. One good way to really know a person is to see how they perform in the middle of the night with only hours to spare. Learned explitives in new langauges then lol.
+Let's connect! I enjoy meeting new people. I'm in a social fraternity while at college (proud [PSK](https://phisigmakappa.org/about/) Brother) and made some of my best friends by taking a risk.  
+Some of my best projects were at other schools done w/ people I hadn't met before. One good way to really know a person is to see how they perform in the middle of the night with only hours to spare.  
+Learned explitives in new languages then lol.
 
-<p align="center">
+<div align="center">
   <img src="readme_images/psk_logo.jpeg" alt="PSK Logo" width="100"/>
-</p>
+</div>
 
+---
 
-- I'm fluent in Mandarin to the point where I've interned to edit videos for [China State Television's Education channel (CETV)](https://en.wikipedia.org/wiki/China_Education_Television). My grandma did a good job teaching me how not to be a banana. Not a security risk though; proud US citizen and bg check should turn up clean.
+### 🧧 Culture & Language
+I'm fluent in Mandarin to the point where I've interned to edit videos for [China State Television's Education channel (CETV)](https://en.wikipedia.org/wiki/China_Education_Television).  
+My grandma did a good job teaching me how not to be a banana. Not a security risk though; proud US citizen and bg check should turn up clean.
 
-<p align="center">
-  <img src="readme_images/us_flag.png" alt="US Flag" width="100"/>
-  <img src="readme_images/china_flag.png" alt="Chinese Flag" width="100"/>
-  <img src="readme_images/cetv_logo.jpeg" alt="CETV logo" width="100"/>
-</p>
+<div align="center">
+  <img src="readme_images/us_flag.png" alt="US Flag" width="80"/>
+  <img src="readme_images/china_flag.png" alt="Chinese Flag" width="80"/>
+  <img src="readme_images/cetv_logo.jpeg" alt="CETV logo" width="80"/>
+</div>
 
-- I enjoy portrait photography (though I admit I'm not very good). I share a [patent](https://patents.justia.com/patent/11086197) in Portrait Photography. I also help my Dad out at his studio (link coming soon) where he makes money taking portraits as a side hustle outside of work.
-<!-- Add photos of the studio, patent paper, and you and Dad together. -->
+---
+
+### 📸 Photography
+I enjoy portrait photography (though I admit I'm not very good).  
+I share a [patent](https://patents.justia.com/patent/11086197) in Portrait Photography. I also help my Dad out at his studio (link coming soon), where he makes money taking portraits as a side hustle outside of work.
+
+<!-- Replace below with photos if available -->
 ![photographer icon]()
 
-- Pretty big on gaming. Select games though: Minecraft (Hypixel Skyblock especially), League of Legends, and Clash of Clans. Fun fact: I moderate [TFBlade's](https://www.twitch.tv/tfblade) channel, a league of legends twitch streamer with 1M+ followers (ask me how I ended up there!) and get paid in Riot Points (RP). I don't type and I just do it mainly during mealtime. My sister says this is negative rizz and the only way I redeem it is to giveaway the RP I've earned to a willing ABG (any takers?!).
+---
 
-<p align="center">
+### 🎮 Gaming
+Pretty big on gaming. Select games though: Minecraft (Hypixel Skyblock especially), League of Legends, and Clash of Clans.  
+Fun fact: I moderate [TFBlade's](https://www.twitch.tv/tfblade) channel, a League of Legends Twitch streamer with 1M+ followers (ask me how I ended up there!) and get paid in Riot Points (RP).  
+I don't type and I just do it mainly during mealtime. My sister says this is negative rizz and the only way I redeem it is to giveaway the RP I've earned to a willing ABG (any takers?!).
+
+<div align="center">
   <img src="readme_images/LoL_logo.jpeg" alt="LoL logo" width="100"/>
   <img src="readme_images/CoC_logo.jpeg" alt="CoC logo" width="100"/>
   <img src="readme_images/HS_Skyblock_logo.jpeg" alt="Minecraft Hypixel Skyblock logo" width="100"/>
-</p>
+</div>
 
-- HUGE foodie! Know a good place in your area? Message me! I like trying new things. I also cook at home and college. Favorite dishes to make include: Red Braised Pork (红烧肉), Black Bean Paste Noodles (炸酱面), Steak (Medium rare; from the grill w/ mashed potatoes and asparagus. Every guy needs to know). Beverage of choice: Pisco Sour or Suntory Whiskey although I won't say no to Pina Coladas on the beach.
-<!-- TODO: Replace pictures of red braised pork, black bean paste noodles, and steak w/ what you made. Also pictures of pisco sour and pina colada. -->
-<p align="center">
+---
+
+### 🍜 Food & Drinks
+HUGE foodie! Know a good place in your area? Message me! I like trying new things. I also cook at home and college.  
+Favorite dishes to make include: Red Braised Pork (红烧肉), Black Bean Paste Noodles (炸酱面), Steak (Medium rare; from the grill w/ mashed potatoes and asparagus. Every guy needs to know).  
+Beverage of choice: Pisco Sour or Suntory Whiskey although I won't say no to Pina Coladas on the beach.
+
+**Dishes:**  
+<div align="center">
   <img src="readme_images/red_braised_pork.jpeg" alt="Red Braised Pork image" width="100"/>
   <img src="readme_images/black_bean_paste_noodles.webp" alt="Black Bean Paste Noodles image" width="100"/>
   <img src="readme_images/steak.jpg" alt="Medium Rare Steak image" width="100"/>
-</p>
-<p align="center">
+</div>
+
+**Drinks:**  
+<div align="center">
   <img src="readme_images/pisco_sour.jpg" alt="Pisco Sour image" width="100"/>
   <img src="readme_images/suntory_hibiki.jpeg" alt="Suntory Whiskey image" width="100"/>
   <img src="readme_images/pina_colada.jpeg" alt="Pina Colada image" width="100"/>
-</p>
+</div>
 
-- I also enjoy playing tennis, running, and going to the gym.
-<!-- Replace with images of you actually doing these things -->
+---
+
+### 🏃‍♂️ Fitness
+I also enjoy playing tennis, running, and going to the gym.  
+<!-- Replace these with actual photos for a personal touch -->
+
 ![running icon]() ![tennis icon]() ![gym icon]()
 
-- Favorite Movies: The Matrix, Batman: The Dark Knight Rises (Christian Bale = Zamn), Braveheart.
+---
 
-<p align="center">
+### 🎬 Favorite Movies
+The Matrix, Batman: The Dark Knight Rises (Christian Bale = Zamn), Braveheart.
+
+<div align="center">
   <img src="readme_images/the_matrix_poster.jpeg" alt="The Matrix Poster" width="100"/>
   <img src="readme_images/batman_poster.jpeg" alt="Batman Poster" width="100"/>
   <img src="readme_images/braveheart_poster.jpeg" alt="Braveheart Poster" width="100"/>
-</p>
+</div>
 
-- Favorite Books: Legend of the Condor Heroes, Extreme Ownership, Ranger's Apprentice.
+---
 
-<p align="center">
+### 📚 Favorite Books
+Legend of the Condor Heroes, Extreme Ownership, Ranger's Apprentice.
+
+<div align="center">
   <img src="readme_images/legend_ofthe_condor_heroes_cover.jpeg" alt="Legend of the Condor Heroes book cover" width="100"/>
   <img src="readme_images/extreme_ownership_cover.png" alt="Extreme Ownership book cover" width="100"/>
-  <img src="Ranger's Apprentice book cover" alt="readme_images/ranger's_apprentice_cover.jpeg" width="100"/>
-</p>
+  <img src="readme_images/rangers_apprentice_cover.jpeg" alt="Ranger's Apprentice book cover" width="100"/>
+</div>
 
 ---
 
