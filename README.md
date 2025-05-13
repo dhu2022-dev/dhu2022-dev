@@ -80,7 +80,7 @@ Some of my best projects were at other schools done w/ people I hadn't met befor
 Learned explitives in new languages then lol.
 
 <div align="center">
-  <img src="readme_images/psk_logo.jpeg" alt="PSK Logo" width="100"/>
+  <img src="readme_images/psk_logo.jpeg" alt="PSK Logo" height="200" width="200"/>
 </div>
 
 ---
@@ -91,9 +91,9 @@ I'm fluent in Mandarin to the point where I've interned to edit videos for [Chin
 My grandma did a good job teaching me how not to be a banana. Not a security risk though; proud US citizen and bg check should turn up clean.
 
 <div align="center">
-  <img src="readme_images/us_flag.png" alt="US Flag" width="80"/>
-  <img src="readme_images/china_flag.png" alt="Chinese Flag" width="80"/>
-  <img src="readme_images/cetv_logo.jpeg" alt="CETV logo" width="80"/>
+  <img src="readme_images/us_flag.png" alt="US Flag" height="200" width="200"/>
+  <img src="readme_images/china_flag.png" alt="Chinese Flag" height="200" width="200"/>
+  <img src="readme_images/cetv_logo.jpeg" alt="CETV logo" height="200" width="200"/>
 </div>
 
 ---
@@ -115,9 +115,9 @@ Fun fact: I moderate [TFBlade's](https://www.twitch.tv/tfblade) channel, a Leagu
 I don't type and I just do it mainly during mealtime. My sister says this is negative rizz and the only way I redeem it is to giveaway the RP I've earned to a willing ABG (any takers?!).
 
 <div align="center">
-  <img src="readme_images/LoL_logo.jpeg" alt="LoL logo" width="100"/>
-  <img src="readme_images/CoC_logo.jpeg" alt="CoC logo" width="100"/>
-  <img src="readme_images/HS_Skyblock_logo.jpeg" alt="Minecraft Hypixel Skyblock logo" width="100"/>
+  <img src="readme_images/LoL_logo.jpeg" alt="LoL logo" height="200" width="200"/>
+  <img src="readme_images/CoC_logo.jpeg" alt="CoC logo" height="200" width="200"/>
+  <img src="readme_images/HS_Skyblock_logo.jpeg" alt="Minecraft Hypixel Skyblock logo" height="200" width="200"/>
 </div>
 
 ---
@@ -132,14 +132,14 @@ Beverage of choice: Pisco Sour or Suntory Whiskey although I won't say no to Pin
 <div align="center">
   <img src="readme_images/red_braised_pork.jpeg" alt="Red Braised Pork" width="100"/>
   <img src="readme_images/black_bean_paste_noodles.webp" alt="Black Bean Paste Noodles" width="100"/>
-  <img src="readme_images/steak.jpg" alt="Medium Rare Steak" width="100"/>
+  <img src="readme_images/steak.jpg" alt="Medium Rare Steak" height="200" width="200"/>
 </div>
 
 **Drinks:**  
 <div align="center">
-  <img src="readme_images/pisco_sour.jpg" alt="Pisco Sour" width="100"/>
-  <img src="readme_images/suntory_hibiki.jpeg" alt="Suntory Whiskey" width="100"/>
-  <img src="readme_images/pina_colada.jpeg" alt="Pina Colada" width="100"/>
+  <img src="readme_images/pisco_sour.jpg" alt="Pisco Sour" height="200" width="200"/>
+  <img src="readme_images/suntory_hibiki.jpeg" alt="Suntory Whiskey" height="200" width="200"/>
+  <img src="readme_images/pina_colada.jpeg" alt="Pina Colada" height="200" width="200"/>
 </div>
 
 ---
@@ -161,9 +161,9 @@ I also enjoy playing tennis, running, and going to the gym.
 Legend of the Condor Heroes, Extreme Ownership, Ranger's Apprentice.
 
 <div align="center">
-  <img src="readme_images/legend_ofthe_condor_heroes_cover.jpeg" alt="Legend of the Condor Heroes" width="100"/>
-  <img src="readme_images/extreme_ownership_cover.png" alt="Extreme Ownership" width="100"/>
-  <img src="readme_images/rangers_apprentice_cover.jpeg" alt="Ranger's Apprentice" width="100"/>
+  <img src="readme_images/legend_ofthe_condor_heroes_cover.jpeg" alt="Legend of the Condor Heroes" height="200" width="200"/>
+  <img src="readme_images/extreme_ownership_cover.png" alt="Extreme Ownership" height="200" width="200"/>
+  <img src="readme_images/rangers_apprentice_cover.jpeg" alt="Ranger's Apprentice" height="200" width="200"/>
 </div>
 
 ---
