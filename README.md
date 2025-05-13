@@ -130,8 +130,8 @@ Beverage of choice: Pisco Sour or Suntory Whiskey although I won't say no to Pin
 
 **Dishes:**  
 <div align="center">
-  <img src="readme_images/red_braised_pork.jpeg" alt="Red Braised Pork" width="100"/>
-  <img src="readme_images/black_bean_paste_noodles.webp" alt="Black Bean Paste Noodles" width="100"/>
+  <img src="readme_images/red_braised_pork.jpeg" alt="Red Braised Pork" height="200" width="200"/>
+  <img src="readme_images/black_bean_paste_noodles.webp" alt="Black Bean Paste Noodles" height="200" width="200"/>
   <img src="readme_images/steak.jpg" alt="Medium Rare Steak" height="200" width="200"/>
 </div>
 
