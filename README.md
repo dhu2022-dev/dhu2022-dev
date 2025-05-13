@@ -112,35 +112,27 @@ Beverage of choice: Pisco Sour or Suntory Whiskey although I won't say no to Pin
 
 **Dishes:**  
 <div align="center">
-  <img src="readme_images/red_braised_pork.jpeg" alt="Red Braised Pork image" width="100"/>
-  <img src="readme_images/black_bean_paste_noodles.webp" alt="Black Bean Paste Noodles image" width="100"/>
-  <img src="readme_images/steak.jpg" alt="Medium Rare Steak image" width="100"/>
+  <img src="readme_images/red_braised_pork.jpeg" alt="Red Braised Pork" width="100"/>
+  <img src="readme_images/black_bean_paste_noodles.webp" alt="Black Bean Paste Noodles" width="100"/>
+  <img src="readme_images/steak.jpg" alt="Medium Rare Steak" width="100"/>
 </div>
 
 **Drinks:**  
 <div align="center">
-  <img src="readme_images/pisco_sour.jpg" alt="Pisco Sour image" width="100"/>
-  <img src="readme_images/suntory_hibiki.jpeg" alt="Suntory Whiskey image" width="100"/>
-  <img src="readme_images/pina_colada.jpeg" alt="Pina Colada image" width="100"/>
+  <img src="readme_images/pisco_sour.jpg" alt="Pisco Sour" width="100"/>
+  <img src="readme_images/suntory_hibiki.jpeg" alt="Suntory Whiskey" width="100"/>
+  <img src="readme_images/pina_colada.jpeg" alt="Pina Colada" width="100"/>
 </div>
 
 ---
 
 ### 🏃‍♂️ Fitness
 I also enjoy playing tennis, running, and going to the gym.  
-<!-- Replace these with actual photos for a personal touch -->
-
-![running icon]() ![tennis icon]() ![gym icon]()
-
----
-
-### 🎬 Favorite Movies
-The Matrix, Batman: The Dark Knight Rises (Christian Bale = Zamn), Braveheart.
-
+<!-- Replace these with real images if possible -->
 <div align="center">
-  <img src="readme_images/the_matrix_poster.jpeg" alt="The Matrix Poster" width="100"/>
-  <img src="readme_images/batman_poster.jpeg" alt="Batman Poster" width="100"/>
-  <img src="readme_images/braveheart_poster.jpeg" alt="Braveheart Poster" width="100"/>
+  <img src="readme_images/running_icon.png" alt="Running icon" width="60"/>
+  <img src="readme_images/tennis_icon.png" alt="Tennis icon" width="60"/>
+  <img src="readme_images/gym_icon.png" alt="Gym icon" width="60"/>
 </div>
 
 ---
@@ -149,9 +141,9 @@ The Matrix, Batman: The Dark Knight Rises (Christian Bale = Zamn), Braveheart.
 Legend of the Condor Heroes, Extreme Ownership, Ranger's Apprentice.
 
 <div align="center">
-  <img src="readme_images/legend_ofthe_condor_heroes_cover.jpeg" alt="Legend of the Condor Heroes book cover" width="100"/>
-  <img src="readme_images/extreme_ownership_cover.png" alt="Extreme Ownership book cover" width="100"/>
-  <img src="readme_images/rangers_apprentice_cover.jpeg" alt="Ranger's Apprentice book cover" width="100"/>
+  <img src="readme_images/legend_ofthe_condor_heroes_cover.jpeg" alt="Legend of the Condor Heroes" width="100"/>
+  <img src="readme_images/extreme_ownership_cover.png" alt="Extreme Ownership" width="100"/>
+  <img src="readme_images/rangers_apprentice_cover.jpeg" alt="Ranger's Apprentice" width="100"/>
 </div>
 
 ---
