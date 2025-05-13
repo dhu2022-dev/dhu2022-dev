@@ -52,9 +52,23 @@ Bite-sized projects designed by JPMC SWEs w/ Forage to simulate job tasks as a J
 
 --- -->
 
+## 📫 How to Reach Me
+
+<!-- - 🌐 [Portfolio](#) -->
+- 📄 [Resume](Resume_Financial.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/davidhu426/)
+- 📬 [Email](who.is.david101@gmail.com)
+
+---
+
+_Thanks for stopping by. If you’ve scrolled this far, you might as well check out one of the projects above._ 👀
+
+---
+
 ## 💭 Outside of Work
 
 ### 🧑‍💻 Hackathons & Friends
+
 I LOVE Hackathons! Me and (sometimes the bois) chugging redbull to pump out a hopelessly unrealistic idea in less than 48 hours:
 
 <div align="center">
@@ -72,6 +86,7 @@ Learned explitives in new languages then lol.
 ---
 
 ### 🧧 Culture & Language
+
 I'm fluent in Mandarin to the point where I've interned to edit videos for [China State Television's Education channel (CETV)](https://en.wikipedia.org/wiki/China_Education_Television).  
 My grandma did a good job teaching me how not to be a banana. Not a security risk though; proud US citizen and bg check should turn up clean.
 
@@ -84,6 +99,7 @@ My grandma did a good job teaching me how not to be a banana. Not a security ris
 ---
 
 ### 📸 Photography
+
 I enjoy portrait photography (though I admit I'm not very good).  
 I share a [patent](https://patents.justia.com/patent/11086197) in Portrait Photography. I also help my Dad out at his studio (link coming soon), where he makes money taking portraits as a side hustle outside of work.
 
@@ -93,6 +109,7 @@ I share a [patent](https://patents.justia.com/patent/11086197) in Portrait Photo
 ---
 
 ### 🎮 Gaming
+
 Pretty big on gaming. Select games though: Minecraft (Hypixel Skyblock especially), League of Legends, and Clash of Clans.  
 Fun fact: I moderate [TFBlade's](https://www.twitch.tv/tfblade) channel, a League of Legends Twitch streamer with 1M+ followers (ask me how I ended up there!) and get paid in Riot Points (RP).  
 I don't type and I just do it mainly during mealtime. My sister says this is negative rizz and the only way I redeem it is to giveaway the RP I've earned to a willing ABG (any takers?!).
@@ -106,6 +123,7 @@ I don't type and I just do it mainly during mealtime. My sister says this is neg
 ---
 
 ### 🍜 Food & Drinks
+
 HUGE foodie! Know a good place in your area? Message me! I like trying new things. I also cook at home and college.  
 Favorite dishes to make include: Red Braised Pork (红烧肉), Black Bean Paste Noodles (炸酱面), Steak (Medium rare; from the grill w/ mashed potatoes and asparagus. Every guy needs to know).  
 Beverage of choice: Pisco Sour or Suntory Whiskey although I won't say no to Pina Coladas on the beach.
@@ -127,6 +145,7 @@ Beverage of choice: Pisco Sour or Suntory Whiskey although I won't say no to Pin
 ---
 
 ### 🏃‍♂️ Fitness
+
 I also enjoy playing tennis, running, and going to the gym.  
 <!-- Replace these with real images if possible -->
 <div align="center">
@@ -138,6 +157,7 @@ I also enjoy playing tennis, running, and going to the gym.
 ---
 
 ### 📚 Favorite Books
+
 Legend of the Condor Heroes, Extreme Ownership, Ranger's Apprentice.
 
 <div align="center">
@@ -147,14 +167,3 @@ Legend of the Condor Heroes, Extreme Ownership, Ranger's Apprentice.
 </div>
 
 ---
-
-## 📫 How to Reach Me
-
-<!-- - 🌐 [Portfolio](#) -->
-- 📄 [Resume](Resume_Financial.pdf)
-- 💼 [LinkedIn](https://www.linkedin.com/in/davidhu426/)
-- 📬 [Email](who.is.david101@gmail.com)
-
----
-
-_Thanks for stopping by. If you’ve scrolled this far, you might as well check out one of the projects above._ 👀
