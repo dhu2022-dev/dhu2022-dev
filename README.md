@@ -53,8 +53,8 @@ The what is to build a product that matters. The how is with software. The why i
 
   <!-- Data/Infra -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/SageMaker-222222?style=for-the-badge&logo=awslambda&logoColor=white"/>
 
   <br/>
@@ -64,6 +64,7 @@ The what is to build a product that matters. The how is with software. The why i
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
+
 ---
 
 ## 🚀 Projects & Work
