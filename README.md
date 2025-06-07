@@ -1,6 +1,10 @@
 # 👋 Hi, I'm David Hu
 
-The what is to build a product that matters. The how is with software. The why is a fight everyday to leave behind something with meaning.
+I spend my time thinking of and building out my dreams. I've found you can find the greatest inspiration and motivation by taking the time to delve and listen to the experiences around you; including your own. Quotes do a good job of this, some of my favorites are:
+
+- "Be the change you want to see in the world." -Gandhi
+- "Everything you want is a dream away." -Coldplay
+- "AI will not take your job." -ChatGPT
 
 ---
 
