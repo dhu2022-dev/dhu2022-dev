@@ -153,7 +153,7 @@ I share a [patent](https://patents.justia.com/patent/11086197) in Portrait Photo
 
 Pretty big on gaming. Select games though: Minecraft (Hypixel Skyblock especially), League of Legends, and Clash of Clans.  
 Fun fact: I moderate [TFBlade's](https://www.twitch.tv/tfblade) channel, a League of Legends Twitch streamer with 1M+ followers (ask me how I ended up there!) and get paid in Riot Points (RP).  
-I don't type and I just do it mainly during mealtime. My sister says this is negative rizz and the only way I redeem it is to giveaway the RP I've earned to a willing ABG (any takers?!).
+I don't type and I just do it mainly during mealtime. My sister says this is negative rizz and the only way I redeem it is to giveaway the RP I've earned to my future girlfriend.
 
 <div align="center">
   <img src="readme_images/LoL_logo.jpeg" alt="LoL logo" height="200" width="200"/>
