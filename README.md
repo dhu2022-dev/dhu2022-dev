@@ -99,8 +99,8 @@ Bite-sized projects designed by JPMC SWEs w/ Forage to simulate job tasks as a J
 
 ### Competitive Programming
 
-![LeetCode Solved](https://raw.githubusercontent.com/dhu2022-dev/dhu2022-dev/main/badges/leetcode_solved.svg)
-![Codeforces Solved](https://raw.githubusercontent.com/dhu2022-dev/dhu2022-dev/main/badges/codeforces_solved.svg)
+![LeetCode Solved](badges/leetcode_solved.svg)
+![Codeforces Solved](badges/codeforces_solved.svg)
 
 ## 📫 How to Reach Me
 
