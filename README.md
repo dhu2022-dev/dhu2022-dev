@@ -33,7 +33,7 @@ I spend my time thinking of and building out my dreams. I've found you can find 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <!-- Add GoLang badge here -->
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -190,8 +190,7 @@ Beverage of choice: Whiskey sour --- although I won't say no to Pina Coladas on 
 
 **Drinks:**  
 <div align="center">
-  <img src="readme_images/pisco_sour.jpg" alt="Pisco Sour" height="200" width="200"/>
-  <img src="readme_images/suntory_hibiki.jpeg" alt="Suntory Whiskey" height="200" width="200"/>
+  <img src="readme_images/whiskey_sour.jpeg" alt="Whiskey Sour" height="200" width="200"/>
   <img src="readme_images/pina_colada.jpeg" alt="Pina Colada" height="200" width="200"/>
 </div>
 
@@ -212,20 +211,30 @@ I also enjoy playing pickleball, running, and going to the gym. I tried a lot of
 ### Favorite Media
 
 #### 📚 Books
+
 Legend of the Condor Heroes, Can't Hurt Me, Trading & Exchanges (Yes I read it unironically).
 <!-- add ur goodreads list here -->
 
 <div align="center">
   <img src="readme_images/legend_ofthe_condor_heroes_cover.jpeg" alt="Legend of the Condor Heroes" height="200" width="200"/>
-  <img src="readme_images/extreme_ownership_cover.png" alt="Extreme Ownership" height="200" width="200"/>
-  <img src="readme_images/rangers_apprentice_cover.jpeg" alt="Ranger's Apprentice" height="200" width="200"/>
+  <img src="readme_images/cant_hurt_me_cover.png" alt="Can't Hurt Me" height="200" width="200"/>
+  <img src="readme_images/trading_and_exchanges_cover.jpeg" alt="Trading & Exchanges" height="200" width="200"/>
 </div>
 
 #### Movies
+
 I'm still working on a movie rating list (via Letterboxd) but I'll link it here when it's caught up. For now just know that my favorite movie of all time is the Matrix and I will die on that hill. Not a big anime fan but select ones like Frieren or JJK I really enjoy. Also like shows like the Flash or Suits.
 
+<div align="center">
+  <img src="readme_images/the_matrix_poster.jpeg" alt="The Matrix Poster" height="200" width="200"/>
+</div>
+
 #### Cat Pictures
-I have a cat who I adopted after foster! Her name is Sabrina, she is the BEST cat. Her personality is a mix of playful but elegant and a hint of derpy but what sticks with me most is that she can sense how I'm feeling and curls up next to me on a rainy day.
+
+I have a cat who I adopted after foster! Her name is Sabrina, she is the BEST cat. Her personality is a mix of playful but elegant and a hint of derpy (she got that orange cat in her) but what sticks with me most is that she can sense how I'm feeling and curls up next to me on a rainy day.
+<div align="center">
+  <img src="readme_images/Sabrina.jpeg" alt="Sabrina the Cat" height="200" width="200"/>
+</div>
 
 <!-- Insert Cat Pictures Here -->
 ---
