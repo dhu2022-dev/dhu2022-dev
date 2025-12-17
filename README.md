@@ -190,7 +190,7 @@ Beverage of choice: Whiskey sour --- although I won't say no to Pina Coladas on 
 
 **Drinks:**  
 <div align="center">
-  <img src="readme_images/whiskey_sour.jpeg" alt="Whiskey Sour" height="200" width="200"/>
+  <img src="readme_images/whiskey_sour.jpg" alt="Whiskey Sour" height="200" width="200"/>
   <img src="readme_images/pina_colada.jpeg" alt="Pina Colada" height="200" width="200"/>
 </div>
 
@@ -217,8 +217,8 @@ Legend of the Condor Heroes, Can't Hurt Me, Trading & Exchanges (Yes I read it u
 
 <div align="center">
   <img src="readme_images/legend_ofthe_condor_heroes_cover.jpeg" alt="Legend of the Condor Heroes" height="200" width="200"/>
-  <img src="readme_images/cant_hurt_me_cover.png" alt="Can't Hurt Me" height="200" width="200"/>
-  <img src="readme_images/trading_and_exchanges_cover.jpeg" alt="Trading & Exchanges" height="200" width="200"/>
+  <img src="readme_images/cant_hurt_me_cover.jpg" alt="Can't Hurt Me" height="200" width="200"/>
+  <img src="readme_images/trading_and_exchanges_cover.jpg" alt="Trading & Exchanges" height="200" width="200"/>
 </div>
 
 #### Movies
@@ -233,7 +233,7 @@ I'm still working on a movie rating list (via Letterboxd) but I'll link it here 
 
 I have a cat who I adopted after foster! Her name is Sabrina, she is the BEST cat. Her personality is a mix of playful but elegant and a hint of derpy (she got that orange cat in her) but what sticks with me most is that she can sense how I'm feeling and curls up next to me on a rainy day.
 <div align="center">
-  <img src="readme_images/Sabrina.jpeg" alt="Sabrina the Cat" height="200" width="200"/>
+  <img src="readme_images/Sabrina.HEIC" alt="Sabrina the Cat" height="200" width="200"/>
 </div>
 
 <!-- Insert Cat Pictures Here -->
