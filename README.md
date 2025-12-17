@@ -233,7 +233,7 @@ I'm still working on a movie rating list (via Letterboxd) but I'll link it here 
 
 I have a cat who I adopted after foster! Her name is Sabrina, she is the BEST cat. Her personality is a mix of playful but elegant and a hint of derpy (she got that orange cat in her) but what sticks with me most is that she can sense how I'm feeling and curls up next to me on a rainy day.
 <div align="center">
-  <img src="readme_images/Sabrina.HEIC" alt="Sabrina the Cat" height="200" width="200"/>
+  <img src="readme_images/Sabrina.jpg" alt="Sabrina the Cat" height="200" width="200"/>
 </div>
 
 <!-- Insert Cat Pictures Here -->
