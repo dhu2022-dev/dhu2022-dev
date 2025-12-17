@@ -12,7 +12,7 @@ I spend my time thinking of and building out my dreams. I've found you can find 
 
 - 🎓 Computer Science Bachelor's Student at [The University of Virginia](https://www.usnews.com/best-colleges/uva-6968)
   - HS Diploma from [Thomas Jefferson School of Science and Technology](https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461) (TJHSST)
-- 💼 Currently interning at CapitalOne
+- 💼 Most recently a former SWE intern at CapitalOne
 - 🌱 Exploring: Full Stack Web Development w/ Angela Yu, Cybersecurity w/ CompTIAA+, Getting AWS certified (practicioner)
 - 🛠️ Interested in: fintech, ML infrastructure, Web hosting
 
@@ -22,7 +22,7 @@ I spend my time thinking of and building out my dreams. I've found you can find 
 
 | Category       | Stack |
 |----------------|-------|
-| Languages      | Python, Java, TypeScript, SQL, C |
+| Languages      | Python, Java, Go, TypeScript, SQL, C |
 | Frontend       | React, HTML/CSS, JavaScript, Bootstrap |
 | Backend        | Django, Flask, Springboot |
 | Data/Infra     | PostgreSQL w/ DBeaver, AWS (S3, Lambda, RDS, Sagemaker)|
@@ -33,6 +33,7 @@ I spend my time thinking of and building out my dreams. I've found you can find 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -97,10 +98,15 @@ Bite-sized projects designed by JPMC SWEs w/ Forage to simulate job tasks as a J
 
 --- -->
 
+### Competitive Programming
+
+![LeetCode Solved](badges/leetcode_solved.svg)
+![Codeforces Solved](badges/codeforces_solved.svg)
+
 ## 📫 How to Reach Me
 
 <!-- - 🌐 [Portfolio](#) -->
-- 📄 [Resume](Resume_Financial.pdf)
+- 📄 [Resume](Resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidhu426/)
 - 📬 [Email](who.is.david101@gmail.com)
 
@@ -114,15 +120,15 @@ _Thanks for stopping by. If you’ve scrolled this far, you might as well check 
 
 ### 🧑‍💻 Hackathons & Friends
 
-I LOVE Hackathons! Me and (sometimes the bois) chugging redbull to pump out a hopelessly unrealistic idea in less than 48 hours:
+I LOVE Hackathons! Me and (sometimes the bois) chugging redbull to pump out a delusionally ambitious idea in less than 48 hours:
 
 <div align="center">
   <img src="readme_images/monkey_computer.gif" alt="funny gif" width="400"/>
 </div>
 
 Let's connect! I enjoy meeting new people. I'm in a social fraternity while at college (proud [PSK](https://phisigmakappa.org/about/) Brother) and made some of my best friends by taking a risk.  
-Some of my best projects were at other schools done w/ people I hadn't met before. One good way to really know a person is to see how they perform in the middle of the night with only hours to spare.  
-Learned explitives in new languages then lol.
+Some of my best projects were at other schools done with people I hadn't met before. One good way to really know a person is to see how they perform in the middle of the night with only hours to spare.  
+Learned explitives in many languages then lol.
 
 <div align="center">
   <img src="readme_images/psk_logo.jpeg" alt="PSK Logo" height="200" width="200"/>
@@ -133,7 +139,7 @@ Learned explitives in new languages then lol.
 ### 🧧 Culture & Language
 
 I'm fluent in Mandarin to the point where I've interned to edit videos for [China State Television's Education channel (CETV)](https://en.wikipedia.org/wiki/China_Education_Television).  
-My grandma did a good job teaching me how not to be a banana. Not a security risk though; proud US citizen and bg check should turn up clean.
+My grandma did a good job teaching me how not to be a banana.
 
 <div align="center">
   <img src="readme_images/us_flag.png" alt="US Flag" height="200" width="200"/>
@@ -146,7 +152,7 @@ My grandma did a good job teaching me how not to be a banana. Not a security ris
 ### 📸 Photography
 
 I enjoy portrait photography (though I admit I'm not very good).  
-I share a [patent](https://patents.justia.com/patent/11086197) in Portrait Photography. I also help my Dad out at his studio (link coming soon), where he makes money taking portraits as a side hustle outside of work.
+I share a [patent](https://patents.justia.com/patent/11086197) in Portrait Photography. I also help my Dad out at his studio (link coming soon), where he makes money taking portraits as a side hustle outside of work. We offer our space to rent out for your own events if you're in the DC area, or simply come to ours if you want to avoid the hassle! :)
 
 <!-- Replace below with photos if available -->
 ![photographer icon]()
@@ -155,9 +161,9 @@ I share a [patent](https://patents.justia.com/patent/11086197) in Portrait Photo
 
 ### 🎮 Gaming
 
-Pretty big on gaming. Select games though: Minecraft (Hypixel Skyblock especially), League of Legends, and Clash of Clans.  
+I enjoy games. My main ones: Minecraft (Hypixel Skyblock especially), League of Legends, and Clash of Clans.  
 Fun fact: I moderate [TFBlade's](https://www.twitch.tv/tfblade) channel, a League of Legends Twitch streamer with 1M+ followers (ask me how I ended up there!) and get paid in Riot Points (RP).  
-I don't type and I just do it mainly during mealtime. My sister says this is negative rizz and the only way I redeem it is to giveaway the RP I've earned to my future girlfriend.
+I don't type and I just do it mainly during mealtime. My sister says this is a turn off to girls but on the bright side I do have a lot of RP to give out since my time isn't spent towards playing the game anymore.
 
 <div align="center">
   <img src="readme_images/LoL_logo.jpeg" alt="LoL logo" height="200" width="200"/>
@@ -169,9 +175,11 @@ I don't type and I just do it mainly during mealtime. My sister says this is neg
 
 ### 🍜 Food & Drinks
 
-HUGE foodie! Know a good place in your area? Message me! I like trying new things. I also cook at home and college.  
-Favorite dishes to make include: Red Braised Pork (红烧肉), Black Bean Paste Noodles (炸酱面), Steak (Medium rare; from the grill w/ mashed potatoes and asparagus. Every guy needs to know).  
-Beverage of choice: Pisco Sour or Suntory Whiskey although I won't say no to Pina Coladas on the beach.
+HUGE foodie! Know a good place in your area? Message me! I have a curated restaurant list <!-- Hyperlink the beli or spreadsheet here when it's done --> for both the DC and Northern Virginia area I'm confident will make your stay exciting for any audience!
+I also like to cook at home and college.  
+Favorite dishes to make include: Red Braised Pork (红烧肉), Black Bean Paste Noodles (炸酱面), Steak (Medium rare; from the grill w/ mashed potatoes and asparagus. Every guy needs to know).
+I've cooked for large groups before like fraternity alumni events but don't ask me to do it again haha.  
+Beverage of choice: Whiskey sour --- although I won't say no to Pina Coladas on the beach.
 
 **Dishes:**  
 <div align="center">
@@ -182,8 +190,7 @@ Beverage of choice: Pisco Sour or Suntory Whiskey although I won't say no to Pin
 
 **Drinks:**  
 <div align="center">
-  <img src="readme_images/pisco_sour.jpg" alt="Pisco Sour" height="200" width="200"/>
-  <img src="readme_images/suntory_hibiki.jpeg" alt="Suntory Whiskey" height="200" width="200"/>
+  <img src="readme_images/whiskey_sour.jpeg" alt="Whiskey Sour" height="200" width="200"/>
   <img src="readme_images/pina_colada.jpeg" alt="Pina Colada" height="200" width="200"/>
 </div>
 
@@ -191,24 +198,47 @@ Beverage of choice: Pisco Sour or Suntory Whiskey although I won't say no to Pin
 
 ### 🏃‍♂️ Fitness
 
-I also enjoy playing tennis, running, and going to the gym.  
+I also enjoy playing pickleball, running, and going to the gym. I tried a lot of sports as a kid so I'm sure I could pick them up again given time, especially swimming and tennis.
 <!-- Replace these with real images if possible -->
 <div align="center">
+  <img src="readme_images/tennis_icon.png" alt="Pickleball icon" width="60"/>
   <img src="readme_images/running_icon.png" alt="Running icon" width="60"/>
-  <img src="readme_images/tennis_icon.png" alt="Tennis icon" width="60"/>
   <img src="readme_images/gym_icon.png" alt="Gym icon" width="60"/>
 </div>
 
 ---
 
-### 📚 Favorite Books
+### Favorite Media
 
-Legend of the Condor Heroes, Extreme Ownership, Ranger's Apprentice.
+#### 📚 Books
+
+Legend of the Condor Heroes, Can't Hurt Me, Trading & Exchanges (Yes I read it unironically).
+<!-- add ur goodreads list here -->
 
 <div align="center">
   <img src="readme_images/legend_ofthe_condor_heroes_cover.jpeg" alt="Legend of the Condor Heroes" height="200" width="200"/>
-  <img src="readme_images/extreme_ownership_cover.png" alt="Extreme Ownership" height="200" width="200"/>
-  <img src="readme_images/rangers_apprentice_cover.jpeg" alt="Ranger's Apprentice" height="200" width="200"/>
+  <img src="readme_images/cant_hurt_me_cover.png" alt="Can't Hurt Me" height="200" width="200"/>
+  <img src="readme_images/trading_and_exchanges_cover.jpeg" alt="Trading & Exchanges" height="200" width="200"/>
 </div>
 
+#### Movies
+
+I'm still working on a movie rating list (via Letterboxd) but I'll link it here when it's caught up. For now just know that my favorite movie of all time is the Matrix and I will die on that hill. Not a big anime fan but select ones like Frieren or JJK I really enjoy. Also like shows like the Flash or Suits.
+
+<div align="center">
+  <img src="readme_images/the_matrix_poster.jpeg" alt="The Matrix Poster" height="200" width="200"/>
+</div>
+
+#### Cat Pictures
+
+I have a cat who I adopted after foster! Her name is Sabrina, she is the BEST cat. Her personality is a mix of playful but elegant and a hint of derpy (she got that orange cat in her) but what sticks with me most is that she can sense how I'm feeling and curls up next to me on a rainy day.
+<div align="center">
+  <img src="readme_images/Sabrina.jpeg" alt="Sabrina the Cat" height="200" width="200"/>
+</div>
+
+<!-- Insert Cat Pictures Here -->
 ---
+
+Thanks for taking the time to get to know me, hopefully you'll give me a chance to get to know you as well. Good luck on your journey!
+Cheers,
+David :)
