@@ -17,44 +17,58 @@ def get_leetcode_solved(username: str) -> int:
       }
     }
     """
-    variables = {"username": username}
-    resp = requests.post(url, json={"query": query, "variables": variables}, timeout=15)
+    headers = {
+        "Content-Type": "application/json",
+        "Referer": "https://leetcode.com/",
+        "User-Agent": "Mozilla/5.0 (GitHub Actions badge updater)",
+    }
+
+    resp = requests.post(
+        url,
+        json={"query": query, "variables": {"username": username}},
+        headers=headers,
+        timeout=20,
+    )
     resp.raise_for_status()
     data = resp.json()
 
-    stats = data["data"]["matchedUser"]["submitStats"]["acSubmissionNum"]
-    total = next(item["count"] for item in stats if item["difficulty"] == "All")
-    return total
+    matched = (data.get("data") or {}).get("matchedUser")
+    if not matched:
+        raise RuntimeError(f"LeetCode user not found or blocked: {username}. Response: {data}")
+
+    stats = matched["submitStats"]["acSubmissionNum"]
+    total = next((item["count"] for item in stats if item["difficulty"] == "All"), None)
+    if total is None:
+        raise RuntimeError(f"Could not parse LeetCode stats for {username}. Got: {stats}")
+    return int(total)
 
 
 def get_codeforces_solved(handle: str) -> int:
     url = f"https://codeforces.com/api/user.status?handle={handle}"
-    resp = requests.get(url, timeout=15)
+    resp = requests.get(url, timeout=20)
     resp.raise_for_status()
-    submissions = resp.json()["result"]
+    payload = resp.json()
+    if payload.get("status") != "OK":
+        raise RuntimeError(f"Codeforces API error for {handle}: {payload}")
+    submissions = payload["result"]
 
     solved = set()
     for sub in submissions:
         if sub.get("verdict") == "OK":
-            problem = sub["problem"]
-            key = f'{problem.get("contestId", 0)}-{problem.get("index", "")}'
-            solved.add(key)
+            p = sub["problem"]
+            solved.add(f'{p.get("contestId", 0)}-{p.get("index", "")}')
     return len(solved)
 
 
-def make_badge(label: str, value: int, color: str = "#007ec6") -> str:
-    """
-    Very simple SVG badge (Shields-style layout but hand-rolled).
-    """
+def make_badge(label: str, value: int, color: str) -> str:
     left_text = label
     right_text = str(value)
 
-    # rough width calculations (8px per character as a simple heuristic)
     left_width = max(40, 7 * len(left_text) + 20)
     right_width = max(40, 7 * len(right_text) + 20)
     total_width = left_width + right_width
 
-    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{total_width}" height="20" role="img" aria-label="{label}: {value}">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{total_width}" height="20" role="img" aria-label="{label}: {value}">
   <linearGradient id="smooth" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
@@ -74,29 +88,24 @@ def make_badge(label: str, value: int, color: str = "#007ec6") -> str:
   </g>
 </svg>
 """
-    return svg
 
 
 def main():
-    lc_user = "user6448Ai"
-    cf_handle = "Woogles"
+    lc_user = os.getenv("LEETCODE_USERNAME", "user6448Ai")
+    cf_handle = os.getenv("CODEFORCES_HANDLE", "Woogles")
 
-    print(f"Fetching stats for LeetCode: {lc_user}, Codeforces: {cf_handle}")
+    print(f"Fetching stats for LeetCode={lc_user}, Codeforces={cf_handle}")
 
     lc_count = get_leetcode_solved(lc_user)
     cf_count = get_codeforces_solved(cf_handle)
 
-    print(f"LeetCode solved: {lc_count}")
-    print(f"Codeforces solved: {cf_count}")
-
     badges_dir = Path("badges")
     badges_dir.mkdir(exist_ok=True)
 
-    lc_svg = make_badge("LeetCode", lc_count, "#ffa116")
-    cf_svg = make_badge("Codeforces", cf_count, "#1f8acb")
+    (badges_dir / "leetcode_solved.svg").write_text(make_badge("LeetCode", lc_count, "#ffa116"), encoding="utf-8")
+    (badges_dir / "codeforces_solved.svg").write_text(make_badge("Codeforces", cf_count, "#1f8acb"), encoding="utf-8")
 
-    (badges_dir / "leetcode_solved.svg").write_text(lc_svg, encoding="utf-8")
-    (badges_dir / "codeforces_solved.svg").write_text(cf_svg, encoding="utf-8")
+    print("Wrote badges/*.svg successfully.")
 
 
 if __name__ == "__main__":
