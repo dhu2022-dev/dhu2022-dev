@@ -29,7 +29,7 @@ jobs:
         env:
           LEETCODE_USERNAME: user6448Ai
           CODEFORCES_HANDLE: Woogles
-        run: python generate_badges.py
+        run: python scripts/generate_badges.py
 
       - name: Commit & push if changed
         run: |
