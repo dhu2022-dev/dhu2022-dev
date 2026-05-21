@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Hu
 
-I spend my time thinking of and building out my dreams. I've found you can find the greatest inspiration and motivation by taking the time to delve and listen to the experiences around you; including your own. Quotes do a good job of this, some of my favorites are:
+I spend my time thinking of and building out my dreams. I find great inspiration and motivation by taking the time to delve and listen to the experiences around me (and sometimes my own lol). Quotes do a good job of framing lived experiences, some of my favorites are:
 
 - "Be the change you want to see in the world." -Gandhi
 - "Everything you want is a dream away." -Coldplay
@@ -10,9 +10,9 @@ I spend my time thinking of and building out my dreams. I've found you can find 
 
 ## 🧠 About Me
 
-- 🎓 Computer Science Bachelor's Student at [The University of Virginia](https://www.usnews.com/best-colleges/uva-6968)
-  - HS Diploma from [Thomas Jefferson School of Science and Technology](https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461) (TJHSST)
-- 💼 Most recently a former SWE intern at CapitalOne
+- 🎓 Bachelor's Degree in Computer Science from [The University of Virginia](https://www.usnews.com/best-colleges/uva-6968)
+  - HS Diploma from [Thomas Jefferson High School for Science and Technology](https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461) (TJHSST)
+- 💼 Incoming Software Engineer at CapitalOne
 - 🌱 Exploring: Full Stack Web Development w/ Angela Yu, Cybersecurity w/ CompTIAA+, Getting AWS certified (practicioner)
 - 🛠️ Interested in: fintech, ML infrastructure, Web hosting
 
@@ -72,6 +72,10 @@ I spend my time thinking of and building out my dreams. I've found you can find 
 
 ---
 
+<!-- ## Certifications
+
+--- -->
+
 ## 🚀 Projects & Work
 
 ### 🔷 [Web Dev Bootcamp](https://github.com/dhu2022-dev/web-dev-bootcamp)
@@ -98,10 +102,18 @@ Bite-sized projects designed by JPMC SWEs w/ Forage to simulate job tasks as a J
 
 --- -->
 
-### Competitive Programming
+## Competitive Programming
+
+Number of problems solved. Dynamically updated daily at 13:00 UTC.
 
 ![LeetCode Solved](badges/leetcode_solved.svg)
 ![Codeforces Solved](badges/codeforces_solved.svg)
+
+<!-- ---
+
+### Kaggle ML Submissions
+
+--- -->
 
 ## 📫 How to Reach Me
 
@@ -109,6 +121,7 @@ Bite-sized projects designed by JPMC SWEs w/ Forage to simulate job tasks as a J
 - 📄 [Resume](Resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidhu426/)
 - 📬 [Email](who.is.david101@gmail.com)
+<!-- - [Personal Website](https://dhu2022-dev.github.io/) -->
 
 ---
 
