@@ -1,0 +1,45 @@
+# Pulls Resume.tex from Overleaf via Git integration and commits Resume.pdf.
+# Requires repo secret OVERLEAF_GIT_TOKEN (Overleaf Account Settings → Git token).
+# Tokens expire after 1 year — rotate and update the secret before expiry.
+
+name: Update resume
+
+on:
+  schedule:
+    - cron: "0 13 1 * *"   # monthly (1st of month, 13:00 UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Clone Overleaf project
+        env:
+          OVERLEAF_GIT_TOKEN: ${{ secrets.OVERLEAF_GIT_TOKEN }}
+        run: |
+          git clone https://git:${OVERLEAF_GIT_TOKEN}@git.overleaf.com/67809380c1ab506667790786 overleaf-resume
+
+      - name: Compile PDF
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: Resume.tex
+          working_directory: overleaf-resume
+
+      - name: Copy PDF into profile repo
+        run: cp overleaf-resume/Resume.pdf Resume.pdf
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Resume.pdf
+          git diff --cached --quiet || git commit -m "chore: update resume from Overleaf"
+          git push
