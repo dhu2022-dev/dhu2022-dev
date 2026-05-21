@@ -118,7 +118,7 @@ Number of problems solved. Dynamically updated daily at 13:00 UTC.
 ## 📫 How to Reach Me
 
 <!-- - 🌐 [Portfolio](#) -->
-- 📄 [Resume](Resume.pdf)
+- 📄 [Resume](Resume.pdf) — synced monthly from Overleaf
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidhu426/)
 - 📬 [Email](who.is.david101@gmail.com)
 <!-- - [Personal Website](https://dhu2022-dev.github.io/) -->
@@ -127,8 +127,9 @@ Number of problems solved. Dynamically updated daily at 13:00 UTC.
 
 _Thanks for stopping by. If you’ve scrolled this far, you might as well check out one of the projects above._ 👀
 
-Good luck on your journey!
-Cheers,
+Good luck on your journey!  
+
+Cheers,  
 David :)
 
 ---
