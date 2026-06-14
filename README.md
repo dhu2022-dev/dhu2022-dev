@@ -127,8 +127,6 @@ Number of problems solved. Dynamically updated daily at 13:00 UTC.
 
 _Thanks for stopping by. If you’ve scrolled this far, you might as well check out one of the projects above._ 👀
 
-Good luck on your journey!  
-
 Cheers,  
 David :)
 
